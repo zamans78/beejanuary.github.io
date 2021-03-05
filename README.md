@@ -7,5 +7,6 @@ Website View:
 
 Registration Form:
 
-![2222](https://user-images.githubusercontent.com/64192420/110088722-6fa14e80-7dbf-11eb-8ee8-ba77ecf50956.jpg)
+![image](https://user-images.githubusercontent.com/64192420/110119287-cfaaeb80-7de5-11eb-844a-65996d3f7a9b.png)
+
 
